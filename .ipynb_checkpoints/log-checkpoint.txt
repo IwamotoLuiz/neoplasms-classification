@@ -1,0 +1,72 @@
+---- RUN 1 ----
+
+Época 1/30 - Perda: 0.25
+Perda de validação: 0.25 | Precisão: 91.60%
+
+Época 2/30 - Perda: 0.23
+Perda de validação: 0.22 | Precisão: 90.95%
+
+Época 3/30 - Perda: 0.22
+Perda de validação: 0.24 | Precisão: 91.95%
+
+Época 4/30 - Perda: 0.22
+Perda de validação: 0.22 | Precisão: 90.55%
+
+Época 5/30 - Perda: 0.20
+Perda de validação: 0.20 | Precisão: 92.00%
+
+Época 6/30 - Perda: 0.19
+Perda de validação: 0.19 | Precisão: 93.85%
+
+Época 7/30 - Perda: 0.19
+Perda de validação: 0.17 | Precisão: 94.30%
+
+Época 8/30 - Perda: 0.18
+Perda de validação: 0.17 | Precisão: 93.05%
+
+Época 9/30 - Perda: 0.17
+Perda de validação: 0.24 | Precisão: 89.25%
+
+Época 10/30 - Perda: 0.16
+Perda de validação: 0.24 | Precisão: 89.65%
+
+Época 11/30 - Perda: 0.16
+Perda de validação: 0.17 | Precisão: 94.25%
+
+Época 12/30 - Perda: 0.16
+Perda de validação: 0.15 | Precisão: 93.95%
+
+Época 13/30 - Perda: 0.14
+Perda de validação: 0.18 | Precisão: 92.70%
+
+Época 14/30 - Perda: 0.14
+Perda de validação: 0.22 | Precisão: 89.80%
+
+Época 15/30 - Perda: 0.13
+Perda de validação: 0.21 | Precisão: 92.50%
+
+Época 16/30 - Perda: 0.13
+Perda de validação: 0.20 | Precisão: 92.05%
+
+Época 17/30 - Perda: 0.10
+Perda de validação: 0.13 | Precisão: 95.15%
+
+Época 18/30 - Perda: 0.08
+Perda de validação: 0.13 | Precisão: 95.65%
+
+Época 19/30 - Perda: 0.07
+Perda de validação: 0.13 | Precisão: 95.85%
+
+Época 20/30 - Perda: 0.06
+Perda de validação: 0.14 | Precisão: 95.40%
+
+Época 21/30 - Perda: 0.06
+Perda de validação: 0.13 | Precisão: 95.50%
+
+Época 22/30 - Perda: 0.05
+Perda de validação: 0.14 | Precisão: 95.45%
+
+Parada precoce ativada.
+
+---- RUN 2 ----
+
